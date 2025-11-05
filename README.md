@@ -19,6 +19,10 @@ Diese Präsentation bestand aus zwei Vorträgen:
 
 ## 🚀 Verwendung
 
+### Live-Demo
+👉 **[Präsentation online ansehen](https://fabrizio-monaco.github.io/ksf-zukunftstag-2025-stagetalk/)**
+
+### Lokal verwenden
 1. **Datei öffnen**: Öffne `index.html` in einem modernen Browser (Chrome, Firefox, Edge, Safari)
 2. **Navigation**: Nutze die Pfeiltasten:
    - `→` (Rechts): Nächste Folie
